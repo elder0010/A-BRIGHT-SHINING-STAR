@@ -1,5 +1,7 @@
 # A-BRIGHT-SHINING-STAR
-Commodore PET demo released in 2022 by Genesis Project. [YouTube link](https://www.youtube.com/watch?v=ytob8TCMcjk)
+Commodore PET demo released in 2022 by Genesis Project. 
+- [YouTube link](https://www.youtube.com/watch?v=ytob8TCMcjk)
+- [pouët.net release page](https://www.pouet.net/prod.php?which=91735)
 
 ![A BRIGHT SHINING STAR](https://content.pouet.net/files/screenshots/00091/00091735.gif "A BRIGHT SHINING STAR")
 
