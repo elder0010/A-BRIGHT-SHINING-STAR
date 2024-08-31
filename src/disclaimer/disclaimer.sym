@@ -1,0 +1,16 @@
+.label wait=$505e
+.label dltx=$506c
+.label quit_scene=$508a
+.label dst=$5044
+.label endstate=$502f
+.label src=$503c
+.label page_0=$5100
+.label text_fn=$5018
+.label low_border=$5030
+.label finish_text=$5053
+.label clear_screen=$545d
+.label seconds=$5080
+.label show_t=$503a
+.label disclaimer=$5000
+.label frame=$5011
+.label delay_text=$5449

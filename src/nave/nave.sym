@@ -1,0 +1,140 @@
+.label starfield_col_status=$66e5
+.label move_starfield=$65d0
+.label endmove=$6664
+.label gfx_str=$504a
+.label blank_check_bg=$67c9
+.label clear_line_bottom=$5f05 {
+}
+.label state=$5023
+.label starfield_delay_bg=$6867
+.label moving=$65e4
+.label rand_jitter=$670e
+.label move_spaceship_fn=$5029
+.label move_fn_tg=$502c
+.label nostore=$662e
+.label low_border=$502f
+.label clearpos_bg=$67f7
+.label spaceship_gfx=$60bc
+.label starpos=$662b
+.label starfield_delay_ori=$6695
+.label spaceship_addr_lo=$6508
+.label star_enabler=$6736
+.label special_clear=$6626
+.label not_moving=$6653
+.label screen_r_addr_hi=$64d6
+.label copy_line11=$5550 {
+}
+.label copy_line12=$55dd {
+}
+.label copy_line10=$54c3 {
+}
+.label reached_bottom_bg=$678b
+.label reached_bottom=$65ee
+.label can_repos_bg=$67a4
+.label endmove_bg=$680e
+.label cpl9=$50cc
+.label storestar=$6629
+.label nodec_bg=$67f5
+.label cpl7=$50b0
+.label cpl8=$50be
+.label move_out_spaceship=$5e81
+.label cpl5=$5094
+.label cpl11=$50e8
+.label cpl6=$50a2
+.label cpl10=$50da
+.label cpl3=$5078
+.label can_repos=$65fa
+.label cpl4=$5086
+.label cpl1=$505c
+.label cpl2=$506a
+.label fade_out=$5eb2
+.label cpl0=$504e
+.label delayer_half=$6761
+.label endstate=$5022
+.label can_clear=$6633
+.label copy_enabler_lo=$5edd
+.label blank_check=$661f
+.label can_clear_bg=$67dd
+.label screen_stars_addr_lo=$659e
+.label copy_line19=$5c1c {
+}
+.label starfield_delay_ori_bg=$683f
+.label copy_line17=$59bc {
+}
+.label copy_line18=$5ae2 {
+}
+.label copy_line15=$57b6 {
+}
+.label copy_line16=$58af {
+}
+.label copy_line13=$5674 {
+}
+.label copy_line14=$5715 {
+}
+.label next_star_bg=$676f
+.label starfield_positions=$666d
+.label moving_bg=$6781
+.label enable_fadeout_bg=$6790
+.label special_clear_bg=$67d0
+.label nave=$5000
+.label next_star=$65d2
+.label clearval_bg=$67f5
+.label move_spaceship=$5039
+.label move_starfield_bg=$675e
+.label scroll_up_spaceship=$5e63
+.label cpl19=$5158
+.label cpl18=$514a
+.label cpl17=$513c
+.label cpl16=$512e
+.label screen_r_addr_lo=$64a4
+.label cpl15=$5120
+.label cpl14=$5112
+.label cpl13=$5104
+.label starfield_delay=$66bd
+.label starfield_col_status_bg=$688f
+.label cpl12=$50f6
+.label starpos_bg=$67d5
+.label lines_to_copy=$5de2
+.label clearval=$664b
+.label nostore_bg=$67d8
+.label enable_fadeout=$65f3
+.label spaceship_addr_hi=$6553
+.label intro_delay=$5e3c
+.label must_clear_spaceship=$515f
+.label frame=$501b
+.label tgadr=$5e95
+.label screen_stars_addr_hi=$65b7
+.label rand_jitter_bg=$68b8
+.label copy_line6=$52f3 {
+}
+.label storestar_bg=$67d3
+.label copy_line7=$5358 {
+}
+.label copy_line8=$53c7 {
+}
+.label copy_line9=$5440 {
+}
+.label stilltick2=$5e4d
+.label star_enabler_bg=$68e0
+.label spaceship_still=$5ebb
+.label copy_line0=$5167 {
+}
+.label copy_line1=$519a {
+}
+.label copy_line2=$51cd {
+}
+.label copy_line3=$5200 {
+}
+.label copy_line4=$5247 {
+}
+.label copy_line5=$5298 {
+}
+.label dlry=$5ebe
+.label nodec=$664b
+.label starfield_positions_bg=$6817
+.label copy_enabler_hi=$5ef1
+.label stilltick=$5ecc
+.label not_moving_bg=$67fd
+.label start_screen=$5e0e
+.label dlry2=$5e3f
+.label clearpos=$664d

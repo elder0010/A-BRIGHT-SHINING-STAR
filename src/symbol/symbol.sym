@@ -1,0 +1,14 @@
+.label symbol=$5000
+.label times=$5329
+.label nextline=$52ec
+.label show_s=$5032
+.label symbol_on=$505a
+.label draw_symbol=$52da
+.label endstate=$5027
+.label enddraw=$5059
+.label low_border=$5028
+.label draw_blank=$5316
+.label sintable=$5355
+.label symbol_gfx=$505a
+.label frame=$501d
+.label nextline_c=$5336
